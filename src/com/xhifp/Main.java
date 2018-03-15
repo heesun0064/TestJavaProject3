@@ -6,8 +6,9 @@ public class Main {
         System.out.println("spiderman 1");
         System.out.println("deadpool 2");
         System.out.println("deadpool 3");
+        System.out.println("deadpool 4");
         System.out.println("onepunchman 1");
         System.out.println("deadpool 4");
-        Syste.out.println("test");
+        System.out.println("test");
     }
 }
